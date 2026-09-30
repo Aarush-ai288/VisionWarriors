@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+requests
+pypdf
+python-docx
+PyMuPDF
+scikit-learn
